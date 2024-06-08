@@ -1,0 +1,12 @@
+# ninja log v5
+18	574	7395680383858977	CMakeFiles/TicTacToe.dir/src/RandomGen.cpp.obj	5ff58a2c6476e85c
+21	459	7395680382709032	CMakeFiles/TicTacToe.dir/src/Menu.cpp.obj	226025bf48ccb1ee
+16	510	7395684795608079	CMakeFiles/TicTacToe.dir/src/AI.cpp.obj	d64e2778922e0ffd
+519	628	7395686230192693	TicTacToe.exe	ecc683b164687030
+12	517	7395686229102736	CMakeFiles/TicTacToe.dir/src/Board.cpp.obj	bb85188c02defbf9
+15	1416	7395681817706961	CMakeFiles/TicTacToe.dir/src/Player.cpp.obj	3b0b870c959d1614
+13	1894	7395684809421414	CMakeFiles/TicTacToe.dir/src/main.cpp.obj	66cfc6bcf7601595
+16	466	7395702195922036	CMakeFiles/TicTacToe.dir/src/AI.cpp.obj	d64e2778922e0ffd
+14	518	7395702196452028	CMakeFiles/TicTacToe.dir/src/Board.cpp.obj	bb85188c02defbf9
+11	1810	7395702209361715	CMakeFiles/TicTacToe.dir/src/main.cpp.obj	66cfc6bcf7601595
+1811	1913	7395702210371695	TicTacToe.exe	ecc683b164687030

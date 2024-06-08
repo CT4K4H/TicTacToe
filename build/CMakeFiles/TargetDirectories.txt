@@ -1,0 +1,3 @@
+C:/Users/CT4K4N/Desktop/TicTacToe/build/CMakeFiles/TicTacToe.dir
+C:/Users/CT4K4N/Desktop/TicTacToe/build/CMakeFiles/edit_cache.dir
+C:/Users/CT4K4N/Desktop/TicTacToe/build/CMakeFiles/rebuild_cache.dir
