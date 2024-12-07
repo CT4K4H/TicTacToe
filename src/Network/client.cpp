@@ -6,7 +6,7 @@
 // #include <vector>
 
 
-// constexpr char SERVER_IP[] = "192.168.56.1";					// Enter IPv4 address of Server
+// constexpr char SERVER_IP[] = "";					// Enter IPv4 address of Server
 // constexpr short SERVER_PORT_NUM = 55555;				// Enter Listening port on Server side
 // constexpr short BUFF_SIZE = 1024;
 
